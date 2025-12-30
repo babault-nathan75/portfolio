@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://babault-nathan75.github.io/portfolio/
